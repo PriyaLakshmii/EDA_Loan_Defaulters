@@ -8,7 +8,7 @@ We will use EDA to identify patterns and segregate defaulters and non-defaulters
 
 In other words, the company wants to understand the factors behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its risk assessment.
 
-## Steps:
+## EDA Steps:
 1. Importing libraries and Exploring the Dataset
 
 2. Checking missing values and Outliers
